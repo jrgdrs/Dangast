@@ -1,3 +1,10 @@
+## Dangast Font Project
+
+Script font imitating the handwritten menu cards of Kurhaus Dangast. Minimal character set, two weights.
+
+![Sample Image](documentation/image-Dangast-Black.png)
+![Sample Image](documentation/image-Dangast-Regular.png)
+
 ## Setting up your font
 
 ### New repositories
